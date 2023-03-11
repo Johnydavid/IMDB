@@ -1,0 +1,21 @@
+insert into movies values('01', 'Shashank Redemption', ("C:\Users\Johnson\Desktop\movie_posters\sr.jpeg"), 'Drama', ('["Morgan Freeman", "Tim Robbins", "Clancy Brown", "Bob Gunton"]'), ('["Highly Overrated But Only Good", "Hope is a good thing probably best of all and good thing never dies"]'),('["Kyle Ellis","Hari"]') );
+
+
+
+insert into movies values('02', 'The God Father', ("https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/?ref_=tt_ov_i"), 'Crime Film', ('["Al Pacino", "Marlon Brando", "James Caan", "Diane Keaton"]'), ('["The Godfather is one of the most revered movies of all time and its contribution to cinema is remarkable.", "I wish to give 1000 stars. Epic movie!"]'),('["Abood Ash","Sabita Dutta"]') );
+
+
+insert into movies values('03', 'The Dark Knight', ("C:\Users\Johnson\Desktop\movie_posters\dk.jpeg"), 'Super Hero', ('["Christian Bale", "Heath Ledger", "Gary Oldman", "Aaron Eckhart"]'), ('["The Dark Knight is Christopher Nolan's magnum opus", "It's often considered the greatest comic-book movie of all time."]'),('["James Lough","Pat Cahill"]') );
+
+
+insert into movies values('04', '12 Angry Men', ("C:\Users\Johnson\Desktop\movie_posters\12AM.jpeg"), 'Drama', ('["Henry Fonda", "Lee J. Cobb", "Joseph Sweeney", "Martin Balsam"]'), ('["12 Angry Men is really one of the classic movie that one should watch.", "A fun movie to watch and a good lesson to learn."]'),('["Arnab Chatterjee","Tam Do"]') );
+
+insert into movies values('05', 'Schindler's List', ("C:\Users\Johnson\Desktop\movie_posters\sl.jpeg"), 'War', ('["Liam Neeson", "Ralph Fiennes", "Ben Kingsley", "Embeth Davidts"]'), ('["Chilling is one of the more accurate terms to use to describe this film.", "Overall a great portrayal of the holocaust."]'),('["Uncle Vladi","Arghaya Maulik"]') );
+
+
+
+
+
+
+
+

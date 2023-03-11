@@ -1,0 +1,16 @@
+
+insert into artists values('01', 'Shashank Redemption', 'Morgan Freeman', 'Ellis Boyd Redding', ('["Distinctive deep voice", "Humour", "Impressing Acting skills"]'));
+
+
+insert into artists values('02', 'The God Father', 'Marlon Brando', 'Vito Corleone', ('["Immersion into his character", "Exploratory Acting", "Protagonist"]'));
+
+
+insert into artists values('03', 'The Dark Knight', 'Christian Bale', 'Batman', ('["Pianist", "Speaks foreign accents", "Wing Chun Kung-Fu martial artist"]'));
+
+
+insert into artists values('04', '12 Angry Men', 'Henry Fonda', 'Juror #8', ('["Plain-speaking idealists", "Naturalistic acting ", "Modest"]'));
+
+
+insert into artists values('05', "Schindler's List", 'Liam Neeson', 'Schindler', ('["Good understanding of dramatic techniques", "Action ", "Emotional"]'));
+
+
