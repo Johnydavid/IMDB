@@ -1,3 +1,5 @@
+create table artists(MOVIE_ID varchar(2), MOVIE_NAME varchar(100), ARTIST_NAME varchar(500), ROLE varchar(500), SKILLS varchar(500)) ;
+
 
 insert into artists values('01', 'Shashank Redemption', 'Morgan Freeman', 'Ellis Boyd Redding', ('["Distinctive deep voice", "Humour", "Impressing Acting skills"]'));
 
@@ -12,5 +14,3 @@ insert into artists values('04', '12 Angry Men', 'Henry Fonda', 'Juror #8', ('["
 
 
 insert into artists values('05', "Schindler's List", 'Liam Neeson', 'Schindler', ('["Good understanding of dramatic techniques", "Action ", "Emotional"]'));
-
-
