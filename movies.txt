@@ -1,4 +1,4 @@
-create table movies(MOVIE_ID varchar(2), MOVIE_NAME varchar(100), MEDIA_TYPE varbinary(50), Genre varchar(50), Artists varchar(500), Reviews varchar(500), Users varchar(500)) ;
+create table movies(MOVIE_ID varchar(2), MOVIE_NAME varchar(100), MEDIA_TYPE varbinary(50), GENRE varchar(50), ARTISTS varchar(500), REVIEWS varchar(500), USERS varchar(500)) ;
 
 
 
